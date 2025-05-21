@@ -1,7 +1,7 @@
 # 🎬 Netflix 1990s Movie Analysis
 
 
-![Popcorn Movie Time](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Classic Film Reel](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
 
 
 
