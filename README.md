@@ -1,7 +1,7 @@
 # 🎬 Netflix 1990s Movie Analysis
 
-![Netflix Logo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
+![Classic Film Reel](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
 
 
 > 📊 An Exploratory Data Analysis (EDA) project focused on Netflix movies released in the 1990s. Dive into trends, durations, genres, and more from the golden decade of film!
