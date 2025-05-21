@@ -1,6 +1,6 @@
 # 🎬 Netflix 1990s Movie Analysis
 
-![Movie Time](https://media.giphy.com/media/3o7aD6ZL3LfT67iOWw/giphy.gif)
+![Movie Clapperboard](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 
 
