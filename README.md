@@ -2,7 +2,8 @@
 
 
 
-![90s Movie](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Netflix Movie](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 
 
