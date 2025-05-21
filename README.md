@@ -1,7 +1,6 @@
 # 🎬 Netflix 1990s Movie Analysis
 
-
-![90s Movie Vibe](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)
+![Netflix Logo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
 
