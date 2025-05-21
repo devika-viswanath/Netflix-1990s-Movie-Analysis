@@ -1,7 +1,8 @@
 # 🎬 Netflix 1990s Movie Analysis
 
 
-![Classic Film Reel](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+
+![90s Movie](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 
 
