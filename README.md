@@ -1,6 +1,7 @@
 # 🎬 Netflix 1990s Movie Analysis
 
-![Movie Clapperboard](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+
+![90s Movie Vibe](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)
 
 
 
